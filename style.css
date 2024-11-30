@@ -1,0 +1,44 @@
+#body{
+    background-color: #24353F;
+}
+.inputs{
+    box-shadow: -5px 2px 54px -9px rgba(0, 0, 0, 1);
+}
+ /* .caption{
+    bottom: 20px;
+    left: 20px;
+    right: 20px;
+
+ }
+ #boxContainer{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 222222;
+    background-color: rgba(0, 0, 0, 0.5);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+ #boxItem{
+    width: 50%;
+    height: 500px;
+    background-image: url(watch/imgs04.jpg);
+    background-size: caver;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: relative;
+ }
+ i{
+    font-size: 25px;
+    margin: 10px;
+    cursor: pointer;
+ }
+ #close{
+    position: absolute;
+    top: 10px;
+    right: 10px;
+ } */
